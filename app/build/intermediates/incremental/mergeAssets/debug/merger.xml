@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Комп\AndroidStudioProjects\bloodstream1\app\src\main\assets"><file name="send.mp3" path="C:\Users\Комп\AndroidStudioProjects\bloodstream1\app\src\main\assets\send.mp3"/></source></dataSet><dataSet config="debug"><source path="C:\Users\Комп\AndroidStudioProjects\bloodstream1\app\src\debug\assets"/></dataSet></merger>
